@@ -8,6 +8,8 @@
 
 **Por qué hemos elegido esta empresa**: Nestlé tiene muchas plantas de producción en todo el mundo que podrían beneficiarse de la digitalización de procesos, desde la gestión de inventarios hasta la producción automatizada y el control de calidad. La IA podría ayudar en la optimización de la cadena de suministro, la predicción de demanda y el análisis de la satisfacción del cliente, lo que sería crucial para la toma de decisiones estratégicas.  
 
+**Miembros del grupo**: Antonio Caro, Rocío Luque, Adrían Díaz, Juan Herrador
+
 ---
 
 ## 1. Estudio de Conceptos
