@@ -7,10 +7,11 @@
 
 
 
-> **Miembros del grupo**: Antonio Caro, Rocío Luque, Adrían Díaz, Juan Herrador
+> **Miembros del grupo**: Antonio Caro, Rocío Luque, Adrían Díaz, Juan Herrador.
+> 
 > **Empresa**: Nestlé (Multinacional).  
-  **Sector**: Alimentación y Bebidas.  
-  **Características**: Nestlé es una de las mayores empresas de alimentos y bebidas a nivel mundial. Se enfoca en la sostenibilidad y la eficiencia de sus procesos de producción.  
+> **Sector**: Alimentación y Bebidas.  
+> **Características**: Nestlé es una de las mayores empresas de alimentos y bebidas a nivel mundial. Se enfoca en la sostenibilidad y la eficiencia de sus procesos de producción.  
 
 
 **Por qué hemos elegido esta empresa**: Nestlé tiene muchas plantas de producción en todo el mundo que podrían beneficiarse de la digitalización de procesos, desde la gestión de inventarios hasta la producción automatizada y el control de calidad. Dentro de este proceso de digitalización, la IA (Inteligencia Artificial) podría ayudar en la optimización de la cadena de suministro, la predicción de demanda y el análisis de la satisfacción del cliente, siendo puntos cruciales para la toma de decisiones estratégicas.  
