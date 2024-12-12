@@ -103,7 +103,7 @@ La transformación digital en las operaciones de negocio de Nestlé tiene como o
 
 ## 6. Reflexión sobre el Impacto de la IA en Nestlé
 
-La implementación de IA en Nestlé no solo mejorará la eficiencia operativa y la calidad del producto, sino que también tendrá un impacto significativo en la toma de decisiones estratégicas. El uso de análisis predictivo permitirá una mejor planificación de la producción y distribución, mientras que la automatización de procesos administrativos reducirá los costos operativos y permitirá que el personal se enfoque en tareas de mayor valor.
+La implementación de IA en Nestlé ademas de mejorar la eficiencia operativa y la calidad del producto, también tendrá un impacto significativo en la toma de decisiones estratégicas. El uso de análisis predictivo permitirá una mejor planificación de la producción y distribución, mientras que la automatización de procesos administrativos reducirá los costos operativos y permitirá que el personal se enfoque en tareas de mayor valor.
 
 Además, la personalización de ofertas y la mejora en la atención al cliente a través de IA consolidará la relación de Nestlé con los consumidores, asegurando su competitividad en un mercado cada vez más exigente.
 
