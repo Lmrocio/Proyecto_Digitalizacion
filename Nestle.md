@@ -109,6 +109,8 @@ La digitalización en la planta de Nestlé tiene como objetivo optimizar los pro
 
 - **Visión Artificial**: Con sistemas de visión artificial basados en IA, Nestlé podrá inspeccionar de forma automática el producto final para detectar defectos en calidad. Esto asegurará que los productos que llegan al mercado estén dentro de los estándares de calidad.
 
+![Planta de produccion de Nestle automatizada](img/Nestle_produccion.jpg)
+
 ### **Negocio (Operaciones Administrativas)**:
 La transformación digital en las operaciones de negocio de Nestlé tiene como objetivo mejorar la toma de decisiones estratégicas y la eficiencia administrativa. Las tecnologías clave incluyen:
 
