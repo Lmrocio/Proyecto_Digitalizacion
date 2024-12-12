@@ -117,7 +117,8 @@ La transformación digital en las operaciones de negocio de Nestlé tiene como o
 - **Automatización de Procesos Administrativos (RPA)**: El uso de RPA para tareas como la facturación, gestión de pagos y la planificación de inventarios automatizará muchas de las tareas repetitivas, reduciendo errores humanos y liberando tiempo para tareas más estratégicas.
 
 - **IA en Marketing y Atención al Cliente**: La implementación de chatbots y sistemas de recomendación basados en IA permitirá a Nestlé ofrecer una atención al cliente más rápida y personalizada. Además, los algoritmos de IA ayudarán a personalizar las ofertas, maximizando las ventas y mejorando la experiencia del consumidor.
-
+  
+![Oficina de Nestle]()
 ---
 
 ## 6. Reflexión sobre el Impacto de la IA en Nestlé
