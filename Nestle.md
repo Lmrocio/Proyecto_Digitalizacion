@@ -36,9 +36,10 @@ Por otro lado, la digitalización en negocio se enfoca en la optimización de la
 - **Empresa**: Nestlé.
 - **Características de la empresa**:
   - **Tamaño**: Multinacional, con más de 200,000 empleados en todo el mundo.
-  - **Productos**: Alimentos y bebidas, incluyendo marcas icónicas como Nescafé, KitKat, Maggi, entre otras.
-  - **Clientes**: Consumidores globales, presentes en más de 190 países.
-  - **Sostenibilidad**: Fuerte enfoque en la sostenibilidad y la eficiencia energética.
+  - **Productos**: Alimentos procesados, bebidas, productos lácteos, nutrición infantil, productos de salud y bienestar, incluyendo marcas icónicas como Nescafé, KitKat, Maggi, entre otras.
+  - **Clientes**: Consumidores a nivel mundial, distribuidores, empresas minoristas.
+  - **Ubicación**: Oficinas y fábricas en más de 180 países.
+  - **Objetivos**: Mejorar la eficiencia operativa, fomentar la sostenibilidad, personalizar la oferta para los consumidores y optimizar la cadena de suministro global.
 
 ---
 
@@ -82,18 +83,49 @@ A continuación, se presenta un diagrama de la estructura IT (Tecnologías de la
 
 ```mermaid
 graph TD
-    A[Planta de Producción] -->|IoT| B[Monitoreo de Máquinas]
-    A -->|Robótica| C[Automatización de Producción]
-    A -->|Visión Artificial| D[Inspección de Calidad]
-    E[Negocio] -->|IA Análisis Predictivo| F[Optimización de Demanda y Producción]
-    E -->|RPA| G[Automatización Administrativa]
-    E -->|IA Marketing y Atención al Cliente| H[Personalización de Ofertas]
-    B --> I[Almacenamiento de Datos en la Nube]
-    C --> I
-    D --> I
-    F --> I
-    G --> I
-    H --> I
+    subgraph OT[Tecnologías Operacionales]
+        direction TB
+        A[Planta de Producción]
+        B[Monitoreo de Máquinas]
+        C[Automatización de Producción]
+        D[Inspección de Calidad]
+        A -->|IoT| B
+        A -->|Robótica| C
+        A -->|Visión Artificial| D
+        B --> I[Almacenamiento de Datos en la Nube]
+        C --> I
+        D --> I
+    end
+
+    subgraph IT[Tecnologías de Información]
+        direction TB
+        E[Negocio]
+        F[Optimización de Demanda y Producción]
+        G[Automatización Administrativa]
+        H[Personalización de Ofertas]
+        E -->|IA Análisis Predictivo| F
+        E -->|RPA| G
+        E -->|IA Marketing y Atención al Cliente| H
+        F --> I
+        G --> I
+        H --> I
+    end
+
+    subgraph IA[Inteligencia Artificial]
+        direction TB
+        I[Almacenamiento de Datos en la Nube]
+        I -->|Análisis de Datos| J[Decisiones en Tiempo Real]
+        J -->|Mejora de Procesos| A
+        J -->|Optimización de Demanda| E
+    end
+
+    A -->|Producción de Alimentos| Producto[Producto Final]
+    Producto -->|Distribución Global| Cliente[Consumidor Final]
+    Negocio -->|Ventas y Estrategia de Marketing| Cliente
+
+    classDef IT fill:#f9f,stroke:#333,stroke-width:2px;
+    classDef OT fill:#cff,stroke:#333,stroke-width:2px;
+    classDef IA fill:#f7e1a6,stroke:#333,stroke-width:2px;
 ```
 
 ---
@@ -121,6 +153,7 @@ La transformación digital en las operaciones de negocio de Nestlé tiene como o
 - **IA en Marketing y Atención al Cliente**: La implementación de chatbots y sistemas de recomendación basados en IA permitirá a Nestlé ofrecer una atención al cliente más rápida y personalizada. Además, los algoritmos de IA ayudarán a personalizar las ofertas, maximizando las ventas y mejorando la experiencia del consumidor.
   
 ![Oficina de Nestle](img/nestle-oficina.jpg)
+
 ---
 
 ## 6. Reflexión sobre el Impacto de la IA en Nestlé
