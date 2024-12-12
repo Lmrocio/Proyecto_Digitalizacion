@@ -118,7 +118,7 @@ La transformación digital en las operaciones de negocio de Nestlé tiene como o
 
 - **IA en Marketing y Atención al Cliente**: La implementación de chatbots y sistemas de recomendación basados en IA permitirá a Nestlé ofrecer una atención al cliente más rápida y personalizada. Además, los algoritmos de IA ayudarán a personalizar las ofertas, maximizando las ventas y mejorando la experiencia del consumidor.
   
-![Oficina de Nestle](img/nestle_oficina.png)
+![Oficina de Nestle](img/nestle-oficina.jpg)
 ---
 
 ## 6. Reflexión sobre el Impacto de la IA en Nestlé
